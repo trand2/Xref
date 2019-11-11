@@ -1,6 +1,4 @@
 # Xref
-A cross-reference generator, which is a program that reads a text file, extracting word-like tokens,  and prints a listing of the line numbers where each token appears, along with the number of occurrences in that line in the format line-number:count.
-
 
 Write a cross-reference generator, which is a program that reads a text file, extracting word-like tokens,  and prints a listing of the line numbers where each token appears, along with the number of occurrences in that line in the format line-number:count. To illustrate, here is an excerpt from the output of this assignment (the order of identical keys ignoring case is immaterial; i.e., “A” can immediately precede or follow “a”, etc.) (full output here)
 
